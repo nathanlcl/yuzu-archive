@@ -3,10 +3,10 @@ screw off nintendo let me have funny red plumber man on my pc
 
 Yuzu PC:
 
-https://github.com/pineappleEA/pineapple-src/releases/tag/EA-4176
+[Windows](https://github.com/Logboy2000/yuzu-archive/releases/download/L/Windows-Yuzu-EA-4176.zip)
 
-Yuzu Android:
+[Linux](https://github.com/Logboy2000/yuzu-archive/releases/download/L/Linux-Yuzu-EA-4176.AppImage)
 
-https://web.archive.org/web/20240304142742/https://github.com/yuzu-emu/yuzu-android/releases/tag/android-278 
+[Yuzu Android Not EA ):](https://github.com/Logboy2000/yuzu-archive/releases/download/L/Andriod-Yuzu-EA-Latest.apk)
 
 *for legal reasons this is a joke*
