@@ -1,10 +1,6 @@
 # yuzu-archive
 fuck you nintendo
 
-Citra:
-
-https://github.com/weihuoya/citra/releases
-
 Yuzu PC:
 
 https://github.com/pineappleEA/pineapple-src/releases/tag/EA-4176
