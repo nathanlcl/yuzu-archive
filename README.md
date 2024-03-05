@@ -1,7 +1,5 @@
 # Yuzu Archived
-screw off nintendo let me have funny red plumber man on my pc
-
-Yuzu PC:
+screw off nintendo let me have funny plumber man on my pc
 
 [Windows](https://github.com/Logboy2000/yuzu-archive/releases/download/L/Windows-Yuzu-EA-4176.zip)
 
