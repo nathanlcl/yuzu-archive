@@ -1,5 +1,5 @@
 # Yuzu Archived
-Fork thijs project to keep downloads alive
+Fork this project to keep downloads alive
 
 [Windows](https://github.com/Logboy2000/yuzu-archive/releases/download/L/Windows-Yuzu-EA-4176.zip)
 
