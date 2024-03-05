@@ -1,5 +1,5 @@
-# yuzu-archive
-screw off nintendo let me have funny red hat plumber man on pc
+# Yuzu Archived
+screw off nintendo let me have funny red plumber man on my pc
 
 Yuzu PC:
 
