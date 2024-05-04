@@ -1,10 +1,13 @@
 # Yuzu Archived
-Fork this project to keep downloads alive
 
-[Windows](https://github.com/Logboy2000/yuzu-archive/releases/download/L/Windows-Yuzu-EA-4176.zip)
+Go check out [Suyu](https://suyu.dev/) or [Ryujinx](https://ryujinx.org/download) instead.
 
-[Linux](https://github.com/Logboy2000/yuzu-archive/releases/download/L/Linux-Yuzu-EA-4176.AppImage)
+~~Fork this project to keep downloads alive~~
 
-[Android (Not EA)](https://github.com/Logboy2000/yuzu-archive/releases/download/L/Andriod-Yuzu-EA-Latest.apk)
+~~[Windows](https://github.com/Logboy2000/yuzu-archive/releases/download/L/Windows-Yuzu-EA-4176.zip)~~
 
-*for legal reasons this is a joke*
+~~[Linux](https://github.com/Logboy2000/yuzu-archive/releases/download/L/Linux-Yuzu-EA-4176.AppImage)~~
+
+~~[Android (Not EA)](https://github.com/Logboy2000/yuzu-archive/releases/download/L/Andriod-Yuzu-EA-Latest.apk)~~
+
+~~*for legal reasons this is a joke*~~
